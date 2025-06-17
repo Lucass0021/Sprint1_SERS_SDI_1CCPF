@@ -73,4 +73,4 @@ Este projeto foi desenvolvido por alunos do 1º ano de Ciência da Computação 
 
 ## 🎥 Vídeo Pitch
 
-📺 Link para o vídeo no YouTube: [link]()
+📺 Link para o vídeo no YouTube: [link](https://youtu.be/AF8lJaSI3go)
